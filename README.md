@@ -4,6 +4,14 @@
   </a>
 </p>
 
+Parcel 是一款极速、零配置的 Web 应用打包工具。具有以下功能特性：
+● 极速打包 - 多核心编译，以及即使在重启后也能快速重建的文件系统缓存。
+● 无需安装插件，开箱即用，支持 JS、CSS、HTML、file assets 等。
+● 在有需要时自动转换成 Babel、PostCSS 和 PostHTML 模块 - 甚至是 node_modules。
+● 代码零配置，使用动态 import（）语句分割。
+● 内置热模块替换
+● 报错日志友好 - 代码高亮显示有助于查明问题。
+
 [![Backers on Open Collective](https://opencollective.com/parcel/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/parcel/sponsors/badge.svg)](#sponsors)
 [![Build Status](https://dev.azure.com/devongovett/devongovett/_apis/build/status/parcel-bundler.parcel?branchName=master)](https://dev.azure.com/devongovett/devongovett/_build/latest?definitionId=1)
 [![Coverage](https://img.shields.io/codecov/c/github/parcel-bundler/parcel/master.svg)](https://codecov.io/github/parcel-bundler/parcel/)
